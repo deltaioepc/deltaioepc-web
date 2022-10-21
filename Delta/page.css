@@ -1,0 +1,35 @@
+*{
+    margin: 0;
+    padding:0;
+    box-sizing: border-box;
+}
+/* add download button features here  */
+.download-button{
+    display: flex;
+    justify-content: center;
+    margin-top: 80px;
+}
+/* modify the download button here  */
+.button{
+    color:#F1F2F8;
+    font-weight: bolder;
+    padding: 12px 30px;
+    background: #1F1B4E;
+    border-radius: 2px;
+    border: none;   
+    cursor: pointer;
+}
+/* div containing the image preview images one by one  */
+.image-preview{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+/* styling of individual images  */
+img{
+    margin-top: 12px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 80%;
+}
