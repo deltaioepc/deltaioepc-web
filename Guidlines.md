@@ -1,5 +1,6 @@
 ## Guidlines That should be followed to Contribute
 ---
+- Clone This Repository first and make changes and contribute
 - To avoid merge conflict everyone should pull the files once(*if the branch is updated it can cause serious issues*) before pushing.
 - _(*underscore*)should be placed instead of spaces in any images or any files. eg: *my_image*(valid)
 *my image*(invalid) :x:
