@@ -1,7 +1,7 @@
 ## Guidlines That should be followed to Contribute
 ---
 - To avoid merge conflict everyone should pull the files once(*if the branch is updated it can cause serious issues*) before pushing.
-- _(*underscore*)should be placed instead of spaces in any images or any files. eg: *my_image*(valid):tick: 
+- _(*underscore*)should be placed instead of spaces in any images or any files. eg: *my_image*(valid)
 *my image*(invalid) :x:
 - *Navbar*, *Footer* and *Body* should be separated and should be placed inside the *components* folder for the easy access.
 - Codes written should be commented and well documented to prevent any future errors.
